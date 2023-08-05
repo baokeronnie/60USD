@@ -8,8 +8,8 @@ body {
 }
 
 .product-container {
-  max-width: 600px;
-  height: 500px;
+  max-width: 900px;
+  height: 1200px;
   overflow: hidden;
   margin: 0 auto;
   padding: 20px;
